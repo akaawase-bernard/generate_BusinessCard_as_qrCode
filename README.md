@@ -1,6 +1,5 @@
-# generate_BusinessCard_as_qrCode
- Complementary Card QR Code Generator: Generate personalized QR codes with essential contact info for digital complementary cards.
 # Complementary Card QR Code Generator
+Complementary Card QR Code Generator: Generate personalized QR codes with essential contact info for digital complementary cards.
 
 This repository, named `complementary-card-qrcode-generator`, contains a Python script to generate a QR code for a digital complementary card. The QR code can be used to encode information such as name, job title, email, phone number, and website.
 
